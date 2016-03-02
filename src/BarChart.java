@@ -4,6 +4,7 @@
 public class BarChart {
     public static void main(String[] args)
     {
+        //frequency
         int [] array = {0,0,0,0,0,0,1,2,4,2,1};
         System.out.println("Grade distribution");
         for (int counter=0;counter<array.length;counter++)
